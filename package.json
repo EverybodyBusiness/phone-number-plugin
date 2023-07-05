@@ -1,0 +1,25 @@
+{
+  "name": "phone-number-plugin",
+  "version": "0.0.1",
+  "description": "ELB Phone number Application",
+  "cordova": {
+    "id": "phone-number-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "call",
+    "dialer",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "elb",
+  "license": "UNLICENSED",
+  "main": "PhoneNumber.js",
+  "scripts": {
+  }
+}
